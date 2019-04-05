@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'Snippets.package' : #SquotCypressCodeSerializer
+	'Snippets.package' : #SquotCypressCodeSerializer,
+	'BaselineOfSnippets.package' : #SquotCypressCodeSerializer
 }

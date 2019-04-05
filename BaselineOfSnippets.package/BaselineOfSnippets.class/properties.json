@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSnippets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSnippets",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
