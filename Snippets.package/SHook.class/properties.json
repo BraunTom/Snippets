@@ -1,0 +1,14 @@
+{
+	"category" : "Snippets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SHook",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
