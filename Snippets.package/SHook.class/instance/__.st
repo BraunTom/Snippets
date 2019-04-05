@@ -1,4 +1,4 @@
 as yet unclassified
 __
 
-	^ ECPreferences smartTabString
+	^ ECPreferences smartTabString 
