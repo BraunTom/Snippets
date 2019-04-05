@@ -4,7 +4,7 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [
-			spec package: 'Autocompletion' with: [
+			spec baseline: 'Autocompletion' with: [
 				spec repository: 'github://MrModder/Autocompletion:master/packages'].
 			spec
 				package: 'Snippets' with: [spec requires: #('Autocompletion')].
